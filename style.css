@@ -253,13 +253,13 @@ h3 {
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #ddd;}
+.dropdown-content a:hover {background-color: #2F4277;}
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: #2F4277;}
 /* Extra small devices (phones, 600px and down) */
 @media  screen and (max-width: 600px) {
     #Lodges {
@@ -427,6 +427,7 @@ h3 {
 
 
   
+
 
 
 
