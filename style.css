@@ -238,7 +238,7 @@ h3 {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #2F4277;
+  background-color: #DFD99C;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -259,7 +259,7 @@ h3 {
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #DFD99C;}
+.dropdown:hover .dropbtn {background-color: #2F4277;}
 /* Extra small devices (phones, 600px and down) */
 @media  screen and (max-width: 600px) {
     #Lodges {
@@ -427,6 +427,7 @@ h3 {
 
 
   
+
 
 
 
