@@ -249,7 +249,7 @@ h3 {
   color: #2F4277;
   padding: 12px 16px;
   text-decoration: none;
-  display: inline-block;
+  display: block;
 }
 
 /* Change color of dropdown links on hover */
@@ -427,6 +427,7 @@ h3 {
 
 
   
+
 
 
 
