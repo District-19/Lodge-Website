@@ -236,7 +236,7 @@ h3 {
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
-  display: none;
+  display: inline-flex;
   position: absolute;
   background-color: #DFD99C;
   width: 100%;
@@ -427,6 +427,7 @@ h3 {
 
 
   
+
 
 
 
